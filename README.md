@@ -38,7 +38,7 @@ I am a **Sr. Data Engineer** with a passion for transforming raw data into actio
 
 🌐 **Find Me Elsewhere**:  
 - **[LinkedIn](https://www.linkedin.com/in/shekhar-guptaa/)** - Let's grow our professional network!  
-- **[Tableau Public](#)** - Explore my interactive visualizations.  
+- **[Tableau Public](https://public.tableau.com/app/profile/shekhar.gupta2724/vizzes)** - Explore my interactive visualizations.  
 
 ---
 
